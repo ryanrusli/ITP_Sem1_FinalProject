@@ -1,0 +1,1 @@
+Balance,37310,Default Hand,17,136,Fire Hand,12,270,Poison Hand,18,520,Plus 5,667,10,Slow,714,10,Equipped,FH,Final Boss Ticket,True,1000,,,,,,,,,,,,,,,,,
